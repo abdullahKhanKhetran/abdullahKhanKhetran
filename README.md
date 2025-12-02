@@ -9,7 +9,7 @@ I’m a passionate software engineer building **mobile apps, web apps, AI-integr
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="30"/>](https://dart.dev)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30"/>](https://react.dev)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="Django" width="30"/>](https://www.djangoproject.com)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="Node.js" width="30"/>](https://nodejs.org)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30"/>](https://nodejs.org)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" alt="Laravel" width="30"/>](https://laravel.com)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30"/>](https://git-scm.com)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
