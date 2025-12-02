@@ -5,14 +5,8 @@ I’m a passionate software engineer building **mobile apps, web apps, AI-integr
 ---
 
 ## 🛠️ My Tech Stack  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="30"/>](https://flutter.dev)  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="30"/>](https://dart.dev)  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30"/>](https://react.dev)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="30"/>](https://expressjs.com)  
-[<img src="https://logo.svgcdn.com/logos/mongodb.svg" alt="MongoDB" width="30"/>](https://www.mongodb.com)  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="30"/>](https://laravel.com)  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30"/>](https://git-scm.com)  
-[<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="30"/>](https://flutter.dev) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="30"/>](https://dart.dev) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30"/>](https://react.dev) [<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/expressjs.png" alt="Express.js" width="30"/>](https://expressjs.com) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="30"/>](https://laravel.com) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30"/>](https://git-scm.com) [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB" width="30"/>](https://www.mongodb.com) [<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
+
 
 
 
