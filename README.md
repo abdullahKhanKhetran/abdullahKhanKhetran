@@ -5,8 +5,15 @@ I’m a passionate software engineer building **mobile apps, web apps, AI-integr
 ---
 
 ## 🛠️ My Tech Stack
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)  [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="30"/>](https://flutter.dev)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="30"/>](https://dart.dev)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30"/>](https://react.dev)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30"/>](https://nodejs.org)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="30"/>](https://expressjs.com)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="30"/>](https://laravel.com)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30"/>](https://git-scm.com)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
+[<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="30"/>](https://www.mongodb.com)
 
 ---
 
@@ -16,8 +23,10 @@ Building **mobile & web apps** with **AI integrations** | Exploring **DevOps, CI
 ---
 
 ## 🔗 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-845607362/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abdullahKhanKhetran.com/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhitran2005@gmail.com)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/abdullahKhanKhetran)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/abdullah-khan-845607362/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="Portfolio" width="30"/>](https://abdullahKhanKhetran.com/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="30"/>](mailto:abdullahkhitran2005@gmail.com)
 
 ---
 
