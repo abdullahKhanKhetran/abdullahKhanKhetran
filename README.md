@@ -40,14 +40,6 @@ I’m a passionate software engineer who loves building **useful, clean, and int
 
 > 💡 _Swap the placeholder links with your actual ones before sharing._
 
----
-
-## 📈 GitHub Stats & Languages
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
----
 
 > “Build things that make your future self say 😎.”  
 
