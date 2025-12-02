@@ -1,6 +1,6 @@
 # Hi, I'm **Muhammad Abdullah Khan** 👋
 
-I’m a passionate software engineer who loves building **useful, clean, and interesting software** — from **mobile apps**, **desktop apps**, **web apps**, to backend APIs and automation.
+I’m a passionate software engineer building **mobile apps, web apps, AI-integrated solutions, and custom backends**.
 
 ---
 
@@ -10,32 +10,15 @@ I’m a passionate software engineer who loves building **useful, clean, and int
 
 ---
 
-## 🚀 What I’m Actively Building
-
-- **Mobile apps & web apps** with clean UI/UX and seamless AI integrations  
-- **Custom backend APIs** (Node.js / Express or Laravel) powering my apps  
-- **Automation workflows & AI features** to make apps smarter, faster, and more engaging  
-- Full-stack solutions where I handle **end-to-end development** — frontend, backend, and AI-powered features  
-
----
-
-## 🌱 Learning Path & Future Goals
-
-- Dive deeper into **DevOps / Containers / Deployment workflows** (Docker, CI/CD, cloud infra)  
-- Explore more **AI-powered integrations** — embedding smart features in web and mobile apps  
-- Build portfolio-grade **full-stack + AI projects** to showcase real work  
+## 🚀 Current & Future Focus
+Building **mobile & web apps** with **AI integrations** | Exploring **DevOps, CI/CD, and full-stack portfolio projects**
 
 ---
 
 ## 🔗 Find Me Online
 
-| Platform     | Link                                     |
-|-------------|------------------------------------------|
-| GitHub      | [abdullahKhanKhetran](https://github.com/abdullahKhanKhetran) |
-| LinkedIn    | [My LinkedIn](https://www.linkedin.com/in/abdullah-khan-845607362/) |
-| Portfolio   | [My Portfolio (not live yet)](https://abdullahKhanKhetran.com/) |
-| Email       | [abdullahkhitran2005@gmail.com](mailto:abdullahkhitran2005@gmail.com) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahKhanKhetran)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-845607362/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abdullahKhanKhetran.com/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhitran2005@gmail.com)
 
 ---
 
-> “Build things that make your future self say 😎.”  
+> “Build things that make your future self say 😎.”
