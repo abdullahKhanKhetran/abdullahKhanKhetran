@@ -42,10 +42,10 @@ I’m a passionate software engineer who loves building **useful, clean, and int
 
 | Platform     | Link                                     |
 |-------------|------------------------------------------|
-| GitHub      | [your-username](https://github.com/your-username) |
-| LinkedIn    | [your‑LinkedIn‑URL]                      |
-| Portfolio   | [your‑portfolio‑URL]                     |
-| Email       | youremail@example.com                    |
+| GitHub      | [abdullahKhanKhetran](https://github.com/abdullahKhanKhetran) |
+| LinkedIn    | [My Linkedin](https://www.linkedin.com/in/abdullah-khan-845607362/)]                      |
+| Portfolio   | [abdullahKhanKhetran.com]                     |
+| Email       | abdulahkhitran2005@gmail.com                    |
 
 > 💡 _Swap the placeholder links with your actual ones before sharing._
 
