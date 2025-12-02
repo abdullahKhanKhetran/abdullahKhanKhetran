@@ -43,7 +43,7 @@ I’m a passionate software engineer who loves building **useful, clean, and int
 | Platform     | Link                                     |
 |-------------|------------------------------------------|
 | GitHub      | [abdullahKhanKhetran](https://github.com/abdullahKhanKhetran) |
-| LinkedIn    | [My Linkedin](https://www.linkedin.com/in/abdullah-khan-845607362/)]                      |
+| LinkedIn    | [My Linkedin(https://www.linkedin.com/in/abdullah-khan-845607362/)]                      |
 | Portfolio   | [My Portfolio(not live yet)](abdullahKhanKhetran.com/)                     |
 | Email       | abdulahkhitran2005@gmail.com                    |
 
