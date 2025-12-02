@@ -23,10 +23,7 @@ Building **mobile & web apps** with **AI integrations** | Exploring **DevOps, CI
 ---
 
 ## 🔗 Find Me Online
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/abdullahKhanKhetran)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/abdullah-khan-845607362/)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="Portfolio" width="30"/>](https://abdullahKhanKhetran.com/)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="30"/>](mailto:abdullahkhitran2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-845607362/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abdullahKhanKhetran.com/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhitran2005@gmail.com)
 
 ---
 
