@@ -15,7 +15,6 @@ I’m a passionate software engineer building **mobile apps, web apps, AI-integr
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30"/>](https://www.postgresql.org)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="30"/>](https://www.mongodb.com)
 
-
 ---
 
 ## 🚀 Current & Future Focus
