@@ -10,7 +10,7 @@ I’m a passionate software engineer building **mobile apps, web apps, AI-integr
 ---
 
 ## 🚀 Current & Future Focus
-Building **mobile & web apps** with **AI integrations** | Exploring **DevOps, CI/CD, and full-stack portfolio projects**
+Building **mobile & web apps** with **AI integrations** | Exploring ** AI/ML , Data Science and full-stack portfolio projects**
 
 ---
 
