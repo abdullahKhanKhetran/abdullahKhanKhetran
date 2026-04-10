@@ -15,7 +15,7 @@ Building **mobile & web apps** with **AI integrations** | Exploring ** AI/ML , D
 ---
 
 ## 🔗 Find Me Online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-845607362/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abdullahKhanKhetran.com/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhitran2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-845607362/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://abdullahKhetran.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhitran2005@gmail.com)
 
 ---
 
