@@ -10,8 +10,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=EC4899" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=abdullahKhanKhetran&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abdullahKhanKhetran?label=Followers&style=for-the-badge&color=EC4899" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Full--Stack-A855F7?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-6D28D9?style=for-the-badge" alt="Experience"/>
 </p>
@@ -221,16 +221,16 @@ mindmap
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahKhanKhetran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahKhanKhetran&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=abdullahKhanKhetran&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahKhanKhetran&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -238,21 +238,26 @@ mindmap
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahKhanKhetran&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🌟 Featured Repositories
 
-<!-- Replace with your best repos (and pin the same ones on your profile) -->
+<!-- TODO: uncomment and set your repo names. Pin the same repos on your profile.
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF" />
+  <a href="https://github.com/abdullahKhanKhetran/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahKhanKhetran&repo=YOUR_REPO_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF" />
+  <a href="https://github.com/abdullahKhanKhetran/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahKhanKhetran&repo=YOUR_REPO_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF" />
   </a>
+</div>
+-->
+
+<div align="center">
+  <sub>🔗 Browse my <a href="https://github.com/abdullahKhanKhetran?tab=repositories">repositories</a> or visit my <a href="https://abdullahKhetran.vercel.app/">portfolio</a> for project write-ups.</sub>
 </div>
 
 ---
@@ -270,7 +275,7 @@ mindmap
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahKhanKhetran&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
@@ -312,55 +317,55 @@ mindmap
 <tr>
 <td align="center" width="50%">
 <b>💜 Aurora Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/aurora.svg" alt="Aurora Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/aurora.svg" alt="Aurora Snake" width="100%"/>
 </td>
 <td align="center" width="50%">
 <b>✨ Neon Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/neon.svg" alt="Neon Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/neon.svg" alt="Neon Snake" width="100%"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
 <b>🌅 Sunset Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/sunset.svg" alt="Sunset Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/sunset.svg" alt="Sunset Snake" width="100%"/>
 </td>
 <td align="center" width="50%">
 <b>🌊 Ocean Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/ocean.svg" alt="Ocean Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/ocean.svg" alt="Ocean Snake" width="100%"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
 <b>💚 Matrix Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/matrix.svg" alt="Matrix Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/matrix.svg" alt="Matrix Snake" width="100%"/>
 </td>
 <td align="center" width="50%">
 <b>🔥 Fire Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/fire.svg" alt="Fire Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/fire.svg" alt="Fire Snake" width="100%"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
 <b>❄️ Arctic Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/arctic.svg" alt="Arctic Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/arctic.svg" alt="Arctic Snake" width="100%"/>
 </td>
 <td align="center" width="50%">
 <b>🎆 Cyberpunk Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/cyberpunk.svg" alt="Cyberpunk Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/cyberpunk.svg" alt="Cyberpunk Snake" width="100%"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="50%">
 <b>🖤 Dark Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Dark Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/github-snake-dark.svg" alt="Dark Snake" width="100%"/>
 </td>
 <td align="center" width="50%">
 <b>⚪ Light Theme</b><br>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="Light Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/github-snake.svg" alt="Light Snake" width="100%"/>
 </td>
 </tr>
 </table>
@@ -369,9 +374,9 @@ mindmap
 
 ### ⭐ Featured: Aurora Theme
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/aurora.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/aurora.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/aurora.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahKhanKhetran/abdullahKhanKhetran/output/aurora.svg">
 </picture>
 
 <sub>💡 10 unique themes • Auto-updates every 12 hours • Click above to see all variants!</sub>
@@ -391,5 +396,5 @@ mindmap
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Abdullah Khan</a> | Last Updated: 2026</sub>
+  <sub>⭐️ From <a href="https://github.com/abdullahKhanKhetran">Abdullah Khan</a> | Last Updated: 2026</sub>
 </div>
